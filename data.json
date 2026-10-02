@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-01 08:30",
+ "generated_at": "2026-10-02 08:30",
  "items": [
   {
    "id": "6475f9bf-3db3-46fc-a87d-d066fc7e10a0",
@@ -447,6 +447,7 @@
     "NEWS BUFFET",
     "PChome Online新聞(轉載商傳媒)",
     "YES新聞(轉載商傳媒)",
+    "cnma.org.tw",
     "乾淨世界",
     "享新聞(轉載商傳媒)",
     "人物誌",
@@ -469,10 +470,11 @@
     "蕃新聞",
     "蕃新聞(轉載商傳媒)",
     "行銷人(轉載商傳媒)",
-    "警政時報(轉載商傳媒)"
+    "警政時報(轉載商傳媒)",
+    "鴨鴨新聞(轉載商傳媒)"
    ],
-   "count": 30,
-   "heat": 50,
+   "count": 32,
+   "heat": 54,
    "excerpt": "",
    "exposures": [
     {
@@ -638,6 +640,12 @@
      "kind": "repost"
     },
     {
+     "date": "2026-09-22",
+     "media": "鴨鴨新聞(轉載商傳媒)",
+     "url": "https://yayanews.com.tw/32876/",
+     "kind": "repost"
+    },
+    {
      "date": "2026-09-23",
      "media": "商傳媒",
      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPcW16RnFEUEF2YkM3S2xxdkprV3gwSzdzcHBoeU8zd1dDQXlaOTBYNmRjRGdtcHdKMW40MS16NWpYMkNjcVY2LVdWQ2ctWXpOY291UXpORWZMZW5USlpyV21PSXRDcEJFRl9MWUo4T3l2M1hTY3I2U3ZuS29Tc0VVREJZRFJlRnNXcE1WdUR0di00SS0wZFpTTWw0Ym5CR09veGVrcDNOSEZBVUlIMEZDdzdtODRNT0FjRldSUVFadmVuQ0lpTVU5YWQ0emFsYlFnMjV2RWRUX014eVpWZHRwc0pIRmF0VkMyS1pqaUVxdHVkX3VwY3ZlT1VmRk5TbENqcjdSSnBGVC1yZ2dRRmxyaWJoaEVfU2xBMUZJSVVFel9zMk5xVUxoRm9Qb2JRLVhFZzJNcVlSR2s?oc=5",
@@ -653,6 +661,12 @@
      "date": "2026-09-24",
      "media": "蕃新聞",
      "url": "https://n.yam.com/Article/20260924397813",
+     "kind": "original"
+    },
+    {
+     "date": "2026-09-24",
+     "media": "cnma.org.tw",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE91QWtVMjR2UjFQYW56QS1jcVc2M2lobHhFSnEwb2l4WGpyS3AxX3VhZ0JDR1FwdlRfV1IzV2xPUEkyZXBIUUZuVTgya193aGdsWDh0YlM5Smh6VlRfbGNXQkRqZw?oc=5",
      "kind": "original"
     }
    ]
@@ -735,8 +749,8 @@
  ],
  "totals": {
   "releases": 5,
-  "exposures": 95,
-  "media": 58,
+  "exposures": 97,
+  "media": 60,
   "brands": 3
  }
 }
