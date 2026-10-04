@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-02 08:30",
+ "generated_at": "2026-10-04 08:30",
  "items": [
   {
    "id": "6475f9bf-3db3-46fc-a87d-d066fc7e10a0",
@@ -444,6 +444,7 @@
     "AMM亞洲(轉載商傳媒)",
     "ENN台灣電報(轉載商傳媒)",
     "LIFE生活網(轉載商傳媒)",
+    "Meet創業小聚",
     "NEWS BUFFET",
     "PChome Online新聞(轉載商傳媒)",
     "YES新聞(轉載商傳媒)",
@@ -473,8 +474,8 @@
     "警政時報(轉載商傳媒)",
     "鴨鴨新聞(轉載商傳媒)"
    ],
-   "count": 32,
-   "heat": 54,
+   "count": 33,
+   "heat": 57,
    "excerpt": "",
    "exposures": [
     {
@@ -668,6 +669,12 @@
      "media": "cnma.org.tw",
      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE91QWtVMjR2UjFQYW56QS1jcVc2M2lobHhFSnEwb2l4WGpyS3AxX3VhZ0JDR1FwdlRfV1IzV2xPUEkyZXBIUUZuVTgya193aGdsWDh0YlM5Smh6VlRfbGNXQkRqZw?oc=5",
      "kind": "original"
+    },
+    {
+     "date": "2026-10-02",
+     "media": "Meet創業小聚",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5IYWNFUXpmblRpSHFOSkctODRqWDdZZ3FFbHBMNGlmbGZLRURNU2Njb091WkJEWERFVFhPa3dZY3ZvRVNMalY0RUxxT1lLMjBWS19V?oc=5",
+     "kind": "original"
     }
    ]
   },
@@ -749,8 +756,8 @@
  ],
  "totals": {
   "releases": 5,
-  "exposures": 97,
-  "media": 60,
+  "exposures": 98,
+  "media": 61,
   "brands": 3
  }
 }
