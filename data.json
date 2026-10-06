@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-05 08:30",
+ "generated_at": "2026-10-06 08:30",
  "items": [
   {
    "id": "6475f9bf-3db3-46fc-a87d-d066fc7e10a0",
@@ -449,9 +449,11 @@
     "PChome Online新聞(轉載商傳媒)",
     "YES新聞(轉載商傳媒)",
     "cnma.org.tw",
+    "tw.news.yahoo.com",
     "乾淨世界",
     "享新聞(轉載商傳媒)",
     "人物誌",
+    "創業小聚",
     "北市新聞網",
     "即時新聞網",
     "台灣產經新聞網",
@@ -468,14 +470,15 @@
     "獨家報導(轉載商傳媒)",
     "理財周刊(轉載商傳媒)",
     "科技聯盟(轉載商傳媒)",
+    "立報傳媒",
     "蕃新聞",
     "蕃新聞(轉載商傳媒)",
     "行銷人(轉載商傳媒)",
     "警政時報(轉載商傳媒)",
     "鴨鴨新聞(轉載商傳媒)"
    ],
-   "count": 33,
-   "heat": 57,
+   "count": 36,
+   "heat": 66,
    "excerpt": "",
    "exposures": [
     {
@@ -671,9 +674,27 @@
      "kind": "original"
     },
     {
+     "date": "2026-10-01",
+     "media": "創業小聚",
+     "url": "https://meet.bnext.com.tw/blog/view/31198",
+     "kind": "original"
+    },
+    {
      "date": "2026-10-02",
      "media": "Meet創業小聚",
      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5IYWNFUXpmblRpSHFOSkctODRqWDdZZ3FFbHBMNGlmbGZLRURNU2Njb091WkJEWERFVFhPa3dZY3ZvRVNMalY0RUxxT1lLMjBWS19V?oc=5",
+     "kind": "original"
+    },
+    {
+     "date": "2026-10-05",
+     "media": "tw.news.yahoo.com",
+     "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQbFRHUXhxZ3hZMElzQklFQ1pwd2Q2OW9OdTk0OXYyeDVTOHVobWE2YWN0RnB0ZmdudnY5bWNjR00tZkc2SWhLNG11YkNtNkxoN1hrSUh3cUk2aVFnSkpydjVaRTZIbHZNQ09Qck5nd2lvaUxGcTZ1LTVTdEVaRUZFNWNLTFQ5ZXVIQXpRd2Q2RldqSXVSb21XNUlBeWVMc1lCZXZjbktSQ0gxcmg2N1JVeDlvMWRqTHRwaGxGRGI5eHlZcndJcWVHVVNkQmZhX3RFMkQ2M25ZWDRZdllXNm56alM3d1Q3VnFTUGNTSTJ0azM2WWY3TUwtOW5mbzJxUElvbERsNnhrX2Zxam1pc2lFSU9CUHo3OWtMT0VKTFQtOWt6eTRzRFRfZ1RaRGRvZTRoaW1wckF3T09yR19Hd1JHUy1BQm5uMER2Zy1mek5JUzVDeEYxaHF5YkxPSQ?oc=5",
+     "kind": "original"
+    },
+    {
+     "date": "2026-10-05",
+     "media": "立報傳媒",
+     "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1zYVpZeThWc0syUzhQWTFJRWdrUm50S0ZpU0RsdnJLTUdyTkVvVDM2V3dfTDAzaFdQZFFVbUI4UVU3QjdTdjhva0N30gFKQVVfeXFMTXNhWll5OFZzSzJTOFBZMUlFZ2tSbnRLRmlTRGx2cktNR3JORW9UMzZXd19MMDNoV1BkUVVtQjhRVTdCN1N2OG9rQ3c?oc=5",
      "kind": "original"
     }
    ]
@@ -756,8 +777,8 @@
  ],
  "totals": {
   "releases": 5,
-  "exposures": 98,
-  "media": 61,
+  "exposures": 101,
+  "media": 63,
   "brands": 3
  }
 }
