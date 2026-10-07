@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-06 08:30",
+ "generated_at": "2026-10-07 08:30",
  "items": [
   {
    "id": "6475f9bf-3db3-46fc-a87d-d066fc7e10a0",
@@ -444,6 +444,7 @@
     "AMM亞洲(轉載商傳媒)",
     "ENN台灣電報(轉載商傳媒)",
     "LIFE生活網(轉載商傳媒)",
+    "Life 生活網",
     "Meet創業小聚",
     "NEWS BUFFET",
     "PChome Online新聞(轉載商傳媒)",
@@ -477,8 +478,8 @@
     "警政時報(轉載商傳媒)",
     "鴨鴨新聞(轉載商傳媒)"
    ],
-   "count": 36,
-   "heat": 66,
+   "count": 38,
+   "heat": 72,
    "excerpt": "",
    "exposures": [
     {
@@ -686,6 +687,12 @@
      "kind": "original"
     },
     {
+     "date": "2026-10-02",
+     "media": "cnma.org.tw",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdXhyU0hZbUtCd3VLc3lxTUlGV2hXWkp5aU13TlpTeUhick56QVZRdzQxQW9sUUpJc2VlZm45QUNMLXhPZGRMdTNtZGJncUhLclMyc2dlRjZ6RkQ4SEJ6ZXBXUmxNZExTelZHRFlqMlJPOTlFdzNBbzFtQnVwQ2ZwRFp0UHBmaWpwLWRpOQ?oc=5",
+     "kind": "original"
+    },
+    {
      "date": "2026-10-05",
      "media": "tw.news.yahoo.com",
      "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQbFRHUXhxZ3hZMElzQklFQ1pwd2Q2OW9OdTk0OXYyeDVTOHVobWE2YWN0RnB0ZmdudnY5bWNjR00tZkc2SWhLNG11YkNtNkxoN1hrSUh3cUk2aVFnSkpydjVaRTZIbHZNQ09Qck5nd2lvaUxGcTZ1LTVTdEVaRUZFNWNLTFQ5ZXVIQXpRd2Q2RldqSXVSb21XNUlBeWVMc1lCZXZjbktSQ0gxcmg2N1JVeDlvMWRqTHRwaGxGRGI5eHlZcndJcWVHVVNkQmZhX3RFMkQ2M25ZWDRZdllXNm56alM3d1Q3VnFTUGNTSTJ0azM2WWY3TUwtOW5mbzJxUElvbERsNnhrX2Zxam1pc2lFSU9CUHo3OWtMT0VKTFQtOWt6eTRzRFRfZ1RaRGRvZTRoaW1wckF3T09yR19Hd1JHUy1BQm5uMER2Zy1mek5JUzVDeEYxaHF5YkxPSQ?oc=5",
@@ -695,6 +702,12 @@
      "date": "2026-10-05",
      "media": "立報傳媒",
      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1zYVpZeThWc0syUzhQWTFJRWdrUm50S0ZpU0RsdnJLTUdyTkVvVDM2V3dfTDAzaFdQZFFVbUI4UVU3QjdTdjhva0N30gFKQVVfeXFMTXNhWll5OFZzSzJTOFBZMUlFZ2tSbnRLRmlTRGx2cktNR3JORW9UMzZXd19MMDNoV1BkUVVtQjhRVTdCN1N2OG9rQ3c?oc=5",
+     "kind": "original"
+    },
+    {
+     "date": "2026-10-05",
+     "media": "Life 生活網",
+     "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxNZ05jNVpLNEc5MEhkZlVub1JXeFpfaTJLVEJ0b21hTHdGZ1d0Tm5LTmV5R3dNOGw2SE5QRmNsRWhJZWo5b1NhUGtjaWQwdkpiNFlScmZaNXNTSUhUNEQyM3d0STRrZnVXNFhpMTY5OFBzQ2ZQSEMxdVI3MmUyUmxITWpaLXVBeHZhWVBrVERKQUtadHNnZzFRcUFRUjBlNWt1dVQ3SlpfbHpKc2wtdjNkaGl1QjZ2VzExOExhN2UydFd1NWZTT0ZBbEdmZE0zMEZsOFBXa1hQU3ZtZUM3cGl6bks0ZGpPZjJwX0FqOHpWQXNhWlkxWnlydFhySWdYVlloSHd4dVBkbjBDVDl6X3UxMDhyT051VzRjbmsxT2lxLW0wUXNuckdzaTlSb2x6Q3ZseTFkU2tjU2QxMUhVRlkzYjZVdnFUNlAtVExQa0lTdw?oc=5",
      "kind": "original"
     }
    ]
@@ -777,8 +790,8 @@
  ],
  "totals": {
   "releases": 5,
-  "exposures": 101,
-  "media": 63,
+  "exposures": 103,
+  "media": 64,
   "brands": 3
  }
 }
