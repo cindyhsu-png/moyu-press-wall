@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-07 08:30",
+ "generated_at": "2026-10-08 08:30",
  "items": [
   {
    "id": "6475f9bf-3db3-46fc-a87d-d066fc7e10a0",
@@ -442,14 +442,17 @@
    "cover": "https://cindyhsu-png.github.io/moyu-press-wall/img/cover-ndf-investment.webp",
    "media": [
     "AMM亞洲(轉載商傳媒)",
+    "CNMA",
     "ENN台灣電報(轉載商傳媒)",
     "LIFE生活網(轉載商傳媒)",
     "Life 生活網",
     "Meet創業小聚",
     "NEWS BUFFET",
     "PChome Online新聞(轉載商傳媒)",
+    "YAHOO新聞(轉載自立報)",
     "YES新聞(轉載商傳媒)",
     "cnma.org.tw",
+    "ioioTimes 科技世代",
     "tw.news.yahoo.com",
     "乾淨世界",
     "享新聞(轉載商傳媒)",
@@ -471,15 +474,18 @@
     "獨家報導(轉載商傳媒)",
     "理財周刊(轉載商傳媒)",
     "科技聯盟(轉載商傳媒)",
+    "立報",
     "立報傳媒",
     "蕃新聞",
     "蕃新聞(轉載商傳媒)",
+    "蕃新聞(轉載自CNMA)",
+    "蕃新聞(轉載自立報)",
     "行銷人(轉載商傳媒)",
     "警政時報(轉載商傳媒)",
     "鴨鴨新聞(轉載商傳媒)"
    ],
-   "count": 38,
-   "heat": 72,
+   "count": 45,
+   "heat": 87,
    "excerpt": "",
    "exposures": [
     {
@@ -663,6 +669,18 @@
      "kind": "original"
     },
     {
+     "date": "2026-09-23",
+     "media": "CNMA",
+     "url": "https://www.cnma.org.tw/page/news/show.aspx?num=54052&root=14&page=1&kind=14&lang=TW",
+     "kind": "original"
+    },
+    {
+     "date": "2026-09-23",
+     "media": "蕃新聞(轉載自CNMA)",
+     "url": "https://n.yam.com/Article/20260924397813",
+     "kind": "repost"
+    },
+    {
      "date": "2026-09-24",
      "media": "蕃新聞",
      "url": "https://n.yam.com/Article/20260924397813",
@@ -672,6 +690,18 @@
      "date": "2026-09-24",
      "media": "cnma.org.tw",
      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE91QWtVMjR2UjFQYW56QS1jcVc2M2lobHhFSnEwb2l4WGpyS3AxX3VhZ0JDR1FwdlRfV1IzV2xPUEkyZXBIUUZuVTgya193aGdsWDh0YlM5Smh6VlRfbGNXQkRqZw?oc=5",
+     "kind": "original"
+    },
+    {
+     "date": "2026-09-24",
+     "media": "蕃新聞",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5GUEZENFhPcmFvdVg1OE5oNTNRYkZURHVqNzBaMEJhU0FNR2JIOUlyUHRVeDd3blY5b2ZmR21yajNoVnppYlJkN2lnUVJGVERITFE?oc=5",
+     "kind": "original"
+    },
+    {
+     "date": "2026-09-29",
+     "media": "ioioTimes 科技世代",
+     "url": "https://www.ioiotimes.com/p156444-%E5%A2%A8%E5%AE%87%E7%8D%B2%E5%9C%8B%E7%99%BC%E5%9F%BA%E9%87%91%E6%8A%95%E8%B3%87-agentoss-%E9%99%AA%E8%B7%91%E9%A1%A7%E5%95%8F-%E5%8A%A0%E9%80%9F%E5%B8%83%E5%B1%80-ai-agent%E7%AC%AC%E4%B8%80%E8%82%A1",
      "kind": "original"
     },
     {
@@ -691,6 +721,24 @@
      "media": "cnma.org.tw",
      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdXhyU0hZbUtCd3VLc3lxTUlGV2hXWkp5aU13TlpTeUhick56QVZRdzQxQW9sUUpJc2VlZm45QUNMLXhPZGRMdTNtZGJncUhLclMyc2dlRjZ6RkQ4SEJ6ZXBXUmxNZExTelZHRFlqMlJPOTlFdzNBbzFtQnVwQ2ZwRFp0UHBmaWpwLWRpOQ?oc=5",
      "kind": "original"
+    },
+    {
+     "date": "2026-10-04",
+     "media": "立報",
+     "url": "https://www.limedia.tw/comm/74335/",
+     "kind": "original"
+    },
+    {
+     "date": "2026-10-04",
+     "media": "蕃新聞(轉載自立報)",
+     "url": "https://n.yam.com/Article/20261005702449",
+     "kind": "repost"
+    },
+    {
+     "date": "2026-10-04",
+     "media": "YAHOO新聞(轉載自立報)",
+     "url": "https://tw.news.yahoo.com/%E5%A2%A8%E5%AE%87%E7%8D%B2%E5%9C%8B%E7%99%BC%E5%9F%BA%E9%87%91%E6%8A%95%E8%B3%87-%E9%8E%96%E5%AE%9Aai-agent%E5%95%86%E8%BD%89%E5%8A%A0%E9%80%9F%E7%99%BE%E5%B7%A5%E7%99%BE%E6%A5%AD%E5%B0%8E%E5%85%A5-023946172.html",
+     "kind": "repost"
     },
     {
      "date": "2026-10-05",
@@ -790,8 +838,8 @@
  ],
  "totals": {
   "releases": 5,
-  "exposures": 103,
-  "media": 64,
+  "exposures": 110,
+  "media": 69,
   "brands": 3
  }
 }
