@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-08 08:30",
+ "generated_at": "2026-10-09 08:30",
  "items": [
   {
    "id": "6475f9bf-3db3-46fc-a87d-d066fc7e10a0",
@@ -834,12 +834,35 @@
      "kind": "original"
     }
    ]
+  },
+  {
+   "id": "9295df8d-04f1-48ad-8250-6ffa50e847b8",
+   "title": "AI導入為何淪為成本黑洞？墨宇：企業應從「拆解工作流」找回轉型節奏",
+   "brand": "墨宇",
+   "line": "產業觀點",
+   "date": "2026-10-08",
+   "url": "https://www.youtube.com/watch?v=yzAWjgdX92k&t=6s",
+   "cover": "img/9295df8d-04f1-48ad-8250-6ffa50e847b8.jpg",
+   "media": [
+    "youtube.com"
+   ],
+   "count": 1,
+   "heat": 3,
+   "excerpt": "許多企業在導入AI時，面臨最直接的矛盾：投入了昂貴的系統與軟體授權，卻發現員工無法有效運用，反而因為重複的學習成本與錯誤的流程對接，導致營運成本不降反升。企業在數位轉型的焦慮下，往往忽略了AI不是萬靈丹，若缺乏與現有工作流程的緊密銜接，AI只會成為額外的負擔，而非生產力的加速器。 墨宇股份有限公司觀察到，企業轉型的核心瓶頸在於「經驗無法被系統化」。許多關鍵的工作流程，往往只存在於資深員工的腦中，一旦缺乏轉化工具，這些寶貴的Know-how就無法轉化為AI能執行的指令。企業若想突破困境，首要任務是選出一段每天都在發生的工作，詳細盤點資料來源、處理規則、例外情況與負責人，再決定哪些步驟適合由AI ",
+   "exposures": [
+    {
+     "date": "2026-10-08",
+     "media": "youtube.com",
+     "url": "https://www.youtube.com/watch?v=yzAWjgdX92k&t=6s",
+     "kind": "original"
+    }
+   ]
   }
  ],
  "totals": {
-  "releases": 5,
-  "exposures": 110,
-  "media": 69,
-  "brands": 3
+  "releases": 6,
+  "exposures": 111,
+  "media": 70,
+  "brands": 4
  }
 }
