@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-12 10:38",
+ "generated_at": "2026-10-14 08:30",
  "items": [
   {
    "id": "6475f9bf-3db3-46fc-a87d-d066fc7e10a0",
@@ -21,12 +21,15 @@
     "PCHome新聞(轉載中央社)",
     "PChome Online新聞(轉載商傳媒)",
     "PChome新聞",
+    "PChome新聞(轉載自中央社)",
     "YES新聞(轉載商傳媒)",
     "ioioTimes 科技世代",
+    "msn新聞(轉載自中央社)",
     "中央社",
     "乾淨世界",
     "人物誌",
     "創業小聚",
+    "北市新聞網",
     "即時新聞網",
     "台北新聞網",
     "台灣產經新聞網",
@@ -60,8 +63,8 @@
     "警政時報(轉載商傳媒)",
     "飲新聞"
    ],
-   "count": 61,
-   "heat": 141,
+   "count": 72,
+   "heat": 191,
    "excerpt": "",
    "exposures": [
     {
@@ -429,6 +432,72 @@
      "media": "創業小聚",
      "url": "https://meet.bnext.com.tw/blog/view/31154",
      "kind": "original"
+    },
+    {
+     "date": "2026-10-11",
+     "media": "人物誌",
+     "url": "https://persona-media.com/26003/",
+     "kind": "original"
+    },
+    {
+     "date": "2026-10-11",
+     "media": "即時新聞網",
+     "url": "https://vocus.cc/article/6acc8037fd89780001e4ff13",
+     "kind": "original"
+    },
+    {
+     "date": "2026-10-11",
+     "media": "乾淨世界",
+     "url": "https://www.ganjingworld.com/article/1itjsi2lmt474D1f6r7pp0ZQ91ju1c/aiagent",
+     "kind": "original"
+    },
+    {
+     "date": "2026-10-11",
+     "media": "北市新聞網",
+     "url": "https://tnews.cc/02/News/View/1203156",
+     "kind": "original"
+    },
+    {
+     "date": "2026-10-11",
+     "media": "NEWS BUFFET",
+     "url": "https://nbf.bar/SHQNY",
+     "kind": "original"
+    },
+    {
+     "date": "2026-10-11",
+     "media": "台灣產經新聞網",
+     "url": "https://news.taiwannet.com.tw/news/223134/.html",
+     "kind": "original"
+    },
+    {
+     "date": "2026-10-11",
+     "media": "中央社",
+     "url": "https://www.cna.com.tw/Postwrite/Chi/446715",
+     "kind": "original"
+    },
+    {
+     "date": "2026-10-11",
+     "media": "蕃新聞(轉載中央社)",
+     "url": "https://n.yam.com/Article/20261012181111",
+     "kind": "repost"
+    },
+    {
+     "date": "2026-10-11",
+     "media": "PChome新聞(轉載自中央社)",
+     "url": "https://news.pchome.com.tw/living/cna/20261012/index-17917905737285218009.html",
+     "kind": "repost"
+    },
+    {
+     "date": "2026-10-11",
+     "media": "好新聞(轉載中央社)",
+     "url": "https://www.wellnewss.com/post/1060650.html",
+     "kind": "repost"
+    },
+    {
+     "date": "2026-10-11",
+     "media": "msn新聞(轉載自中央社)",
+     "url": "https://www.msn.com/zh-tw/%E6%8A%80%E8%A1%93/%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7//ar-AA2e3j0o",
+     "kind": "repost"
     }
    ]
   },
@@ -834,35 +903,12 @@
      "kind": "original"
     }
    ]
-  },
-  {
-   "id": "9295df8d-04f1-48ad-8250-6ffa50e847b8",
-   "title": "AI導入為何淪為成本黑洞？墨宇：企業應從「拆解工作流」找回轉型節奏",
-   "brand": "墨宇",
-   "line": "產業觀點",
-   "date": "2026-10-08",
-   "url": "https://www.youtube.com/watch?v=yzAWjgdX92k&t=6s",
-   "cover": "img/9295df8d-04f1-48ad-8250-6ffa50e847b8.jpg",
-   "media": [
-    "youtube.com"
-   ],
-   "count": 1,
-   "heat": 3,
-   "excerpt": "許多企業在導入AI時，面臨最直接的矛盾：投入了昂貴的系統與軟體授權，卻發現員工無法有效運用，反而因為重複的學習成本與錯誤的流程對接，導致營運成本不降反升。企業在數位轉型的焦慮下，往往忽略了AI不是萬靈丹，若缺乏與現有工作流程的緊密銜接，AI只會成為額外的負擔，而非生產力的加速器。 墨宇股份有限公司觀察到，企業轉型的核心瓶頸在於「經驗無法被系統化」。許多關鍵的工作流程，往往只存在於資深員工的腦中，一旦缺乏轉化工具，這些寶貴的Know-how就無法轉化為AI能執行的指令。企業若想突破困境，首要任務是選出一段每天都在發生的工作，詳細盤點資料來源、處理規則、例外情況與負責人，再決定哪些步驟適合由AI ",
-   "exposures": [
-    {
-     "date": "2026-10-08",
-     "media": "youtube.com",
-     "url": "https://www.youtube.com/watch?v=yzAWjgdX92k&t=6s",
-     "kind": "original"
-    }
-   ]
   }
  ],
  "totals": {
-  "releases": 6,
-  "exposures": 111,
-  "media": 70,
-  "brands": 4
+  "releases": 5,
+  "exposures": 121,
+  "media": 71,
+  "brands": 3
  }
 }
