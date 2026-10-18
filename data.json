@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-17 08:30",
+ "generated_at": "2026-10-18 08:30",
  "items": [
   {
    "id": "6475f9bf-3db3-46fc-a87d-d066fc7e10a0",
@@ -903,12 +903,35 @@
      "kind": "original"
     }
    ]
+  },
+  {
+   "id": "2cc77116-d655-4e1b-aeeb-636a883896ac",
+   "title": "墨宇推動 AgentOSS 轉型方案，協助企業將職人經驗轉化為 AI 賦能工具",
+   "brand": "墨宇",
+   "line": "產業觀點",
+   "date": "2026-10-16",
+   "url": "https://www.ctee.com.tw/news/20261016701300-431204",
+   "cover": "img/2cc77116-d655-4e1b-aeeb-636a883896ac.png",
+   "media": [
+    "工商時報"
+   ],
+   "count": 1,
+   "heat": 8,
+   "excerpt": "面對數位轉型，許多企業擁有的不僅是數據，更多是難以量化的「職人經驗」。當這些寶貴的 know-how 僅停留在員工個人腦中，企業便難以在面對市場變動時快速調整節奏。墨宇透過 AgentOSS 平台，提供一套將知識內容轉換為培訓、工具、模組或系統的大型工具箱，讓企業能將隱性經驗轉化為可複用的 AI Agent，從而解決數位轉型中「有工具、沒戰力」的痛點。 與墨宇 AgentOSS 合作的前線部署工程師（FDE）洪璿岳指出，企業轉型最常見的挑戰在於「經驗無法被系統化」。洪璿岳在協助企業導入 AI 的過程中觀察到，許多組織擁有深厚的產業知識，卻缺乏將其轉換為自動化流程的載體。透過 AgentOSS ",
+   "exposures": [
+    {
+     "date": "2026-10-16",
+     "media": "工商時報",
+     "url": "https://www.ctee.com.tw/news/20261016701300-431204",
+     "kind": "original"
+    }
+   ]
   }
  ],
  "totals": {
-  "releases": 5,
-  "exposures": 121,
+  "releases": 6,
+  "exposures": 122,
   "media": 71,
-  "brands": 3
+  "brands": 4
  }
 }
