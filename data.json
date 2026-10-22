@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-21 08:30",
+ "generated_at": "2026-10-22 08:30",
  "items": [
   {
    "id": "6475f9bf-3db3-46fc-a87d-d066fc7e10a0",
@@ -1021,12 +1021,104 @@
      "kind": "original"
     }
    ]
+  },
+  {
+   "id": "c6eefc73-2dfe-4eb9-94dd-f7515ea7c068",
+   "title": "新手學AI最卡的，通常不是工具不會用，是腦中有想法，卻拆不成一個能做、能驗證的作品",
+   "brand": "AI未來學院",
+   "line": "新品牌",
+   "date": "2026-07-20",
+   "url": "https://www.threads.com/@kris.j_187/post/DbAgf5IE729?xmt=AQG0BX_ZpkQKQSMPUXtQlukwd6fn1gcIr8PjIgPH_kVr41pVjqRnAzJo4LIajJTXP-8ztig&slof=1",
+   "cover": "",
+   "media": [
+    "Threads"
+   ],
+   "count": 1,
+   "heat": 3,
+   "excerpt": "",
+   "exposures": [
+    {
+     "date": "2026-07-20",
+     "media": "Threads",
+     "url": "https://www.threads.com/@kris.j_187/post/DbAgf5IE729?xmt=AQG0BX_ZpkQKQSMPUXtQlukwd6fn1gcIr8PjIgPH_kVr41pVjqRnAzJo4LIajJTXP-8ztig&slof=1",
+     "kind": "original"
+    }
+   ]
+  },
+  {
+   "id": "73f68b98-1492-45a2-8352-f95f6b12889c",
+   "title": "最近才發現，會用 AI 跟敢拿 AI 去收錢，中間差超多",
+   "brand": "AI未來學院",
+   "line": "新品牌",
+   "date": "2026-07-20",
+   "url": "https://www.threads.com/@kuosi_87691/post/DbAquEpEgBr?xmt=AQG0GbszB6_TM7Zs8Y9tF8D4P9k9pQPLoDLlWP-bt2Gkvt2FSEXdpMS_6bNvY-XKRmeooInR&slof=1",
+   "cover": "",
+   "media": [
+    "Threads"
+   ],
+   "count": 1,
+   "heat": 3,
+   "excerpt": "",
+   "exposures": [
+    {
+     "date": "2026-07-20",
+     "media": "Threads",
+     "url": "https://www.threads.com/@kuosi_87691/post/DbAquEpEgBr?xmt=AQG0GbszB6_TM7Zs8Y9tF8D4P9k9pQPLoDLlWP-bt2Gkvt2FSEXdpMS_6bNvY-XKRmeooInR&slof=1",
+     "kind": "original"
+    }
+   ]
+  },
+  {
+   "id": "cf68c48d-4192-4b8d-9183-5dde8c852489",
+   "title": "小分享 從只會問 ChatGPT，到做出電商客服機器人",
+   "brand": "Nova超星計畫",
+   "line": "新品牌",
+   "date": "2026-10-08",
+   "url": "https://www.threads.com/share/_rBXhnPPM/",
+   "cover": "",
+   "media": [
+    "Threads"
+   ],
+   "count": 1,
+   "heat": 3,
+   "excerpt": "",
+   "exposures": [
+    {
+     "date": "2026-10-08",
+     "media": "Threads",
+     "url": "https://www.threads.com/share/_rBXhnPPM/",
+     "kind": "original"
+    }
+   ]
+  },
+  {
+   "id": "86d9eeb7-fa30-4d05-9c3e-5aee4f6bacc3",
+   "title": "AI 線上課程好多，有沒有覺得哪個值得上？各位有推薦的嗎！",
+   "brand": "Nova超星計畫",
+   "line": "新品牌",
+   "date": "2026-10-08",
+   "url": "https://www.threads.com/share/BAW9BXVsrW/",
+   "cover": "",
+   "media": [
+    "Threads"
+   ],
+   "count": 1,
+   "heat": 3,
+   "excerpt": "",
+   "exposures": [
+    {
+     "date": "2026-10-08",
+     "media": "Threads",
+     "url": "https://www.threads.com/share/BAW9BXVsrW/",
+     "kind": "original"
+    }
+   ]
   }
  ],
  "totals": {
-  "releases": 6,
-  "exposures": 136,
-  "media": 79,
-  "brands": 4
+  "releases": 10,
+  "exposures": 140,
+  "media": 80,
+  "brands": 6
  }
 }
