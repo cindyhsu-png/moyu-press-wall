@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22 08:30",
+ "generated_at": "2026-10-23 08:30",
  "items": [
   {
    "id": "6475f9bf-3db3-46fc-a87d-d066fc7e10a0",
@@ -925,6 +925,64 @@
    ]
   },
   {
+   "id": "22e06f57-0c7c-42e6-b507-c7974e790669",
+   "title": "【捷思 品牌高度專訪 Q4】企業 Agent 設計／數位轉型",
+   "brand": "墨宇股份有限公司",
+   "line": "媒體公關",
+   "date": "2026-10-21",
+   "url": "https://vocus.cc/article/6ad9b3b4fd8978000113c972",
+   "cover": "img/22e06f57-0c7c-42e6-b507-c7974e790669.jpg",
+   "media": [
+    "NEWS BUFFET",
+    "today新聞網",
+    "人物誌",
+    "北市新聞網",
+    "即時新聞網",
+    "台灣產經新聞網"
+   ],
+   "count": 6,
+   "heat": 18,
+   "excerpt": "",
+   "exposures": [
+    {
+     "date": "2026-10-21",
+     "media": "即時新聞網",
+     "url": "https://vocus.cc/article/6ad9b3b4fd8978000113c972",
+     "kind": "original"
+    },
+    {
+     "date": "2026-10-21",
+     "media": "today新聞網",
+     "url": "https://www.ganjingworld.com/article/1iud2h9so1e7YhGsILGRo0jYH13t1c/ai-agentoss",
+     "kind": "original"
+    },
+    {
+     "date": "2026-10-21",
+     "media": "北市新聞網",
+     "url": "https://tnews.cc/02/News/View/1227575",
+     "kind": "original"
+    },
+    {
+     "date": "2026-10-21",
+     "media": "NEWS BUFFET",
+     "url": "https://nbf.bar/9fhPo",
+     "kind": "original"
+    },
+    {
+     "date": "2026-10-21",
+     "media": "台灣產經新聞網",
+     "url": "https://news.taiwannet.com.tw/news/224667/.html",
+     "kind": "original"
+    },
+    {
+     "date": "2026-10-21",
+     "media": "人物誌",
+     "url": "https://persona-media.com/26110/",
+     "kind": "original"
+    }
+   ]
+  },
+  {
    "id": "546a60c2-5933-46ad-bfee-29e37f95f0cd",
    "title": "一次測算如何養成一座學院？簡少年攜墨宇串起內容、會員與AI應用",
    "brand": "XPlatform",
@@ -1116,9 +1174,9 @@
   }
  ],
  "totals": {
-  "releases": 10,
-  "exposures": 140,
-  "media": 80,
+  "releases": 11,
+  "exposures": 146,
+  "media": 81,
   "brands": 6
  }
 }
