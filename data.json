@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29 08:30",
+ "generated_at": "2026-10-30 08:30",
  "items": [
   {
    "id": "6475f9bf-3db3-46fc-a87d-d066fc7e10a0",
@@ -933,18 +933,37 @@
    "url": "https://vocus.cc/article/6ad9b3b4fd8978000113c972",
    "cover": "img/22e06f57-0c7c-42e6-b507-c7974e790669.jpg",
    "media": [
+    "AMM亞洲(轉載商傳媒)",
+    "ENN台灣電報(轉載商傳媒)",
+    "LIFE生活網(轉載商傳媒)",
     "NEWS BUFFET",
+    "PChome Online新聞(轉載商傳媒)",
+    "YES新聞(轉載商傳媒)",
     "ioioTimes 科技世代",
     "today新聞網",
     "人物誌",
     "北市新聞網",
     "即時新聞網",
+    "台北郵報(轉載商傳媒)",
     "台灣產經新聞網",
+    "台灣線報(轉載商傳媒)",
+    "品傳媒(轉載商傳媒)",
+    "商傳媒",
+    "奧丁丁新聞 OwlNews(轉載商傳媒)",
     "文旅生活",
+    "樂聯網(轉載商傳媒)",
+    "民生電子報(轉載商傳媒)",
+    "民聲新聞(轉載商傳媒)",
+    "理財周刊(轉載商傳媒)",
+    "福爾摩沙新聞(轉載商傳媒)",
+    "科技聯盟(轉載商傳媒)",
+    "蕃新聞(轉載商傳媒)",
+    "行銷人(轉載商傳媒)",
+    "警政時報(轉載商傳媒)",
     "鄉民晚報(轉載自NEWS BUFFET)"
    ],
-   "count": 9,
-   "heat": 25,
+   "count": 28,
+   "heat": 46,
    "excerpt": "",
    "exposures": [
     {
@@ -1000,6 +1019,120 @@
      "media": "文旅生活",
      "url": "https://funmag.com.tw/technology/agentoss",
      "kind": "original"
+    },
+    {
+     "date": "2026-10-27",
+     "media": "商傳媒",
+     "url": "https://sunmedia.tw/news/Industry-information/%E5%82%B3%E7%94%A2%E5%91%8A%E5%88%A5%E4%BA%BA%E5%B7%A5%E6%85%A2%E6%85%A2%E7%A3%A8-%E5%A2%A8%E5%AE%87AgentOSS%E9%87%8D%E5%A1%91%E7%87%9F%E9%81%8B%E6%B5%81%E7%A8%8B-1793168924009",
+     "kind": "original"
+    },
+    {
+     "date": "2026-10-27",
+     "media": "理財周刊(轉載商傳媒)",
+     "url": "https://www.moneyweekly.com.tw/ArticleData/Info/Article/258551",
+     "kind": "repost"
+    },
+    {
+     "date": "2026-10-27",
+     "media": "蕃新聞(轉載商傳媒)",
+     "url": "https://n.yam.com/Article/20261028249121",
+     "kind": "repost"
+    },
+    {
+     "date": "2026-10-27",
+     "media": "ENN台灣電報(轉載商傳媒)",
+     "url": "https://enn.tw/799554/",
+     "kind": "repost"
+    },
+    {
+     "date": "2026-10-27",
+     "media": "LIFE生活網(轉載商傳媒)",
+     "url": "https://life.tw/article/%E5%82%B3%E7%94%A2%E5%91%8A%E5%88%A5%E4%BA%BA%E5%B7%A5%E6%85%A2%E6%85%A2%E7%A3%A8-%E5%A2%A8%E5%AE%87agentoss%E9%87%8D%E5%A1%91%E7%87%9F%E9%81%8B%E6%B5%81%E7%A8%8B-3195630",
+     "kind": "repost"
+    },
+    {
+     "date": "2026-10-27",
+     "media": "奧丁丁新聞 OwlNews(轉載商傳媒)",
+     "url": "https://news.owlting.com/articles/1478968",
+     "kind": "repost"
+    },
+    {
+     "date": "2026-10-27",
+     "media": "民生電子報(轉載商傳媒)",
+     "url": "https://lifenews.com.tw/605309",
+     "kind": "repost"
+    },
+    {
+     "date": "2026-10-27",
+     "media": "警政時報(轉載商傳媒)",
+     "url": "https://www.tcpttw.com/other/other_industrial/2026/10/28/324670/",
+     "kind": "repost"
+    },
+    {
+     "date": "2026-10-27",
+     "media": "YES新聞(轉載商傳媒)",
+     "url": "https://www.yesmedia.com.tw/%e5%82%b3%e7%94%a2%e5%91%8a%e5%88%a5%e4%ba%ba%e5%b7%a5%e6%85%a2%e6%85%a2%e7%a3%a8-%e5%a2%a8%e5%ae%87agentoss%e9%87%8d%e5%a1%91%e7%87%9f%e9%81%8b%e6%b5%81%e7%a8%8b/",
+     "kind": "repost"
+    },
+    {
+     "date": "2026-10-27",
+     "media": "PChome Online新聞(轉載商傳媒)",
+     "url": "https://news.pchome.com.tw/finance/sunmedia/20261028/index-79316968690192329003.html",
+     "kind": "repost"
+    },
+    {
+     "date": "2026-10-27",
+     "media": "科技聯盟(轉載商傳媒)",
+     "url": "https://www.ivendor.com.tw/website/digital_column_detailed/37334",
+     "kind": "repost"
+    },
+    {
+     "date": "2026-10-27",
+     "media": "AMM亞洲(轉載商傳媒)",
+     "url": "https://ammtw.com/181481",
+     "kind": "repost"
+    },
+    {
+     "date": "2026-10-27",
+     "media": "台灣線報(轉載商傳媒)",
+     "url": "https://twline365.com/2026/10/1259053/",
+     "kind": "repost"
+    },
+    {
+     "date": "2026-10-27",
+     "media": "樂聯網(轉載商傳媒)",
+     "url": "https://leho.com.tw/archives/414216",
+     "kind": "repost"
+    },
+    {
+     "date": "2026-10-27",
+     "media": "品傳媒(轉載商傳媒)",
+     "url": "https://pinnews.com.tw/archives/113698",
+     "kind": "repost"
+    },
+    {
+     "date": "2026-10-27",
+     "media": "行銷人(轉載商傳媒)",
+     "url": "https://www.marketersgo.com/%e5%aa%92%e9%ab%94%e6%96%b0%e8%81%9e/202610/%e5%82%b3%e7%94%a2%e5%91%8a%e5%88%a5%e4%ba%ba%e5%b7%a5%e6%85%a2%e6%85%a2%e7%a3%a8-%e5%a2%a8%e5%ae%87agentoss%e9%87%8d%e5%a1%91%e7%87%9f%e9%81%8b%e6%b5%81%e7%a8%8b/",
+     "kind": "repost"
+    },
+    {
+     "date": "2026-10-27",
+     "media": "台北郵報(轉載商傳媒)",
+     "url": "https://taipeipost.org/404018/",
+     "kind": "repost"
+    },
+    {
+     "date": "2026-10-27",
+     "media": "福爾摩沙新聞(轉載商傳媒)",
+     "url": "https://formosalive.com/2026/life/376906/",
+     "kind": "repost"
+    },
+    {
+     "date": "2026-10-27",
+     "media": "民聲新聞(轉載商傳媒)",
+     "url": "https://91postnews.com/sunmedia/149409/",
+     "kind": "repost"
     }
    ]
   },
@@ -1196,8 +1329,8 @@
  ],
  "totals": {
   "releases": 11,
-  "exposures": 149,
-  "media": 83,
+  "exposures": 168,
+  "media": 84,
   "brands": 6
  }
 }
