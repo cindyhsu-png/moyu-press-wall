@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27 08:30",
+ "generated_at": "2026-11-28 08:30",
  "items": [
   {
    "id": "6475f9bf-3db3-46fc-a87d-d066fc7e10a0",
@@ -72,10 +72,11 @@
     "蕃新聞(轉載自立報)",
     "行銷人(轉載商傳媒)",
     "警政時報(轉載商傳媒)",
+    "鄉民晚報(轉載自NEWS BUFFET)",
     "飲新聞"
    ],
-   "count": 86,
-   "heat": 223,
+   "count": 88,
+   "heat": 225,
    "excerpt": "",
    "exposures": [
     {
@@ -227,6 +228,12 @@
      "media": "NEWS BUFFET",
      "url": "https://nbf.bar/9a8Gu",
      "kind": "original"
+    },
+    {
+     "date": "2026-08-31",
+     "media": "鄉民晚報(轉載自NEWS BUFFET)",
+     "url": "https://pnn.tw/post/ebbb6fa6-a772-467a-ac93-fd29ae621642",
+     "kind": "repost"
     },
     {
      "date": "2026-09-01",
@@ -565,6 +572,12 @@
      "kind": "original"
     },
     {
+     "date": "2026-10-11",
+     "media": "鄉民晚報(轉載自NEWS BUFFET)",
+     "url": "https://pnn.tw/post/fe45a02e-93fa-4f51-850d-828c444cfd11",
+     "kind": "repost"
+    },
+    {
      "date": "2026-10-12",
      "media": "立報",
      "url": "https://www.limedia.tw/comm/74584/",
@@ -646,10 +659,11 @@
     "蕃新聞(轉載自立報)",
     "行銷人(轉載商傳媒)",
     "警政時報(轉載商傳媒)",
+    "鄉民晚報(轉載自NEWS BUFFET)",
     "鴨鴨新聞(轉載商傳媒)"
    ],
-   "count": 45,
-   "heat": 87,
+   "count": 46,
+   "heat": 88,
    "excerpt": "",
    "exposures": [
     {
@@ -681,6 +695,12 @@
      "media": "台灣產經新聞網",
      "url": "https://news.taiwannet.com.tw/news/220604/.html",
      "kind": "original"
+    },
+    {
+     "date": "2026-09-21",
+     "media": "鄉民晚報(轉載自NEWS BUFFET)",
+     "url": "https://pnn.tw/post/b30acb4d-9207-468b-a55e-16c0699ec73d",
+     "kind": "repost"
     },
     {
      "date": "2026-09-22",
@@ -942,6 +962,7 @@
     "ioioTimes 科技世代",
     "today新聞網",
     "人物誌",
+    "創業小聚",
     "北市新聞網",
     "即時新聞網",
     "台北郵報(轉載商傳媒)",
@@ -962,8 +983,8 @@
     "警政時報(轉載商傳媒)",
     "鄉民晚報(轉載自NEWS BUFFET)"
    ],
-   "count": 28,
-   "heat": 46,
+   "count": 29,
+   "heat": 49,
    "excerpt": "",
    "exposures": [
     {
@@ -1133,6 +1154,12 @@
      "media": "民聲新聞(轉載商傳媒)",
      "url": "https://91postnews.com/sunmedia/149409/",
      "kind": "repost"
+    },
+    {
+     "date": "2026-11-24",
+     "media": "創業小聚",
+     "url": "https://meet.bnext.com.tw/blog/view/31253",
+     "kind": "original"
     }
    ]
   },
@@ -1329,7 +1356,7 @@
  ],
  "totals": {
   "releases": 11,
-  "exposures": 168,
+  "exposures": 172,
   "media": 84,
   "brands": 6
  }
